@@ -158,4 +158,6 @@ public class IngestionRequest {
 
     /** Name of the external source secret key. */
     private String externalSourceSecretKeyName;
+
+    private String modifiedReason;
 }
